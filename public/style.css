@@ -1,0 +1,64 @@
+html,
+body {
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+  background: linear-gradient(rgb(38, 147, 112), rgb(76, 196, 240));
+}
+
+#header {
+  display: flex;
+}
+
+#img1 {
+  padding-top: 35px;
+  padding-right: 50px;
+  width: 120px;
+  height: 120px;
+}
+
+h1 {
+  font-family: "Permanent Marker", sans-serif;
+  font-size: 4em;
+}
+
+#img2 {
+  padding-left: 50px;
+  padding-top: 35px;
+  width: 120px;
+  height: 120px;
+}
+
+.film {
+  font-family: "Flamenco", sans-serif;
+  font-weight: 300;
+  font-size: 1.5em;
+}
+
+#b1 {
+  font-family: "Flamenco", sans-serif;
+  font-size: 1.3em;
+  font-weight: 900;
+  color: white;
+}
+
+.films img {
+  padding-left: 400px;
+  padding-bottom: 20px;
+}
+
+.films h1 {
+  padding-bottom: 20px;
+  font-family: "Press Start 2P", sans-serif;
+  font-size: 2em;
+}
+
+.films h2 {
+  padding-bottom: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(45, 83, 210);
+}
+
+.film {
+  font-family: "Nothing You Could Do", sans-serif;
+}
